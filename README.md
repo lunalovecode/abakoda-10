@@ -6,4 +6,4 @@ Baitang: https://codeforces.com/group/Sw3sdIlMPV/contest/352575/problem/B
 
 Kizahasi: https://codeforces.com/group/Sw3sdIlMPV/contest/352575/problem/C
 
-Dipisil: https://codeforces.com/group/Sw3sdIlMPV/contest/352575/problem/D
+Dangye: https://codeforces.com/group/Sw3sdIlMPV/contest/352575/problem/D
